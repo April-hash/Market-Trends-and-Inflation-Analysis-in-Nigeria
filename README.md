@@ -1,6 +1,5 @@
-# Market-Trends-and-Inflation-Analysis-in-Nigeria
+# Market-Trends-and-Inflation-Analysis-in-Nigeria (2008–2024)
 A financial consulting firm wants insight into how inflation, foods prices and exchange rates are affecting consumer goods affordability in Nigeria or across Africa.  As an analyst you must analyze public economic dataset to show patterns and proposed data driven recommendations.
-# 🇳🇬 Market Trends & Inflation Impact Analysis in Nigeria (2008–2024)
 
 **Author:** Prosper Ernest Chukwu  
 
