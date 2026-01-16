@@ -1,15 +1,16 @@
 # Market-Trends-and-Inflation-Analysis-in-Nigeria (2008–2024)
-A financial consulting firm wants insight into how inflation, foods prices and exchange rates are affecting consumer goods affordability in Nigeria or across Africa.  As an analyst you must analyze public economic dataset to show patterns and proposed data driven recommendations. 
+> A financial consulting firm wants insight into how inflation, foods prices and exchange rates are affecting consumer goods affordability in Nigeria or across Africa.  As an analyst you must analyze public economic dataset to show patterns and proposed data driven recommendations. 
 
 This project analyzes how inflation, food prices, transport costs, and crude oil exports affect consumer goods affordability in Nigeria between 2008 and 2024.
 
 ---
 
 ## 🎯 Project Objectives
-- Understand Nigeria’s inflation trend  
-- Compare inflation across key sectors  
-- Analyze the relationship between crude oil prices, exports, and inflation  
-- Identify the major drivers of rising cost of living  
+> Understand Nigeria’s inflation trend  
+  Compare inflation across key sectors  
+  Analyze the relationship between crude oil prices, exports, and inflation  
+  Identify the major drivers of rising cost of living  
+[2.Excel Functions 2 - Text .xlsx](https://github.com/user-attachments/files/24672223/2.Excel.Functions.2.-.Text.xlsx)
 
 ---
 
@@ -42,24 +43,6 @@ This project analyzes how inflation, food prices, transport costs, and crude oil
 
 ---
 
-## 📁 Repository Structure
+<img width="489" height="303" alt="image" src="https://github.com/user-attachments/assets/75b43387-379e-4fab-a140-cdb2d489337f" />
+[2.Excel Functions 2 - Text .xlsx](https://github.com/user-attachments/files/24672286/2.Excel.Functions.2.-.Text.xlsx)
 
-```text
-nigeria-inflation-market-analysis/
-│
-├── data/
-│   ├── inflation_data.csv
-│   ├── food_cpi.csv
-│   └── crude_oil.csv
-│
-├── notebooks/
-│   └── inflation_analysis.ipynb
-│
-├── visuals/
-│   └── charts_from_powerbi.png
-│
-├── presentation/
-│   └── Market_Trends_Inflation_Nigeria.pptx
-│
-├── README.md
-└── requirements.txt
